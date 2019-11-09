@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: November 8, 2019
 
 **Today's Progress**: Followeda tutorial on creating a python game using pygame
 
