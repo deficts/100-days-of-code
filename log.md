@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [The tutorial itself](https://www.youtube.com/watch?v=CD4qAhfFuLo)
 
-### Day 1: November 8, 2019
+### Day 2: November 9, 2019
 
 **Today's Progress**: Solved the hackerrank problem "Sock Merchant"
 
@@ -18,3 +18,14 @@
 **Link(s) to work**
 1. [The problem](https://www.hackerrank.com/challenges/sock-merchant)
 1. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/SockMerchant.java)
+
+
+### Day 3: November 10, 2019
+
+**Today's Progress**: Solved two hackerrank problems "What Flavors and Count swaps"
+
+**Thoughts** I learned how to get the sum of two numbers in an array to be the target that I wanted using a HashMap.
+
+**Link(s) to work**
+1. [The problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)
+1. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/WhatFlavors.java)
