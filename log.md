@@ -17,3 +17,4 @@
 
 **Link(s) to work**
 1. [The problem](https://www.hackerrank.com/challenges/sock-merchant)
+1. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/SockMerchant.java)
