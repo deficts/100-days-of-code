@@ -17,7 +17,7 @@
 
 **Link(s) to work**
 1. [The problem](https://www.hackerrank.com/challenges/sock-merchant)
-1. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/SockMerchant.java)
+2. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/SockMerchant.java)
 
 
 ### Day 3: November 10, 2019
@@ -28,4 +28,13 @@
 
 **Link(s) to work**
 1. [The problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)
-1. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/WhatFlavors.java)
+2. [My solution](https://github.com/deficts/hackerrank-solutions/blob/master/WhatFlavors.java)
+
+### Day 4: November 11, 2019
+
+**Today's Progress**: Solved three hackerrank problems
+
+**Thoughts** Used python and realized how cool is it when you have to involve lists in problem solving.
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
