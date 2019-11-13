@@ -38,3 +38,12 @@
 
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
+### Day 5: November 12, 2019
+
+**Today's Progress**: Solved one hackerrank problem
+
+**Thoughts** I tried solving other two problems but I could not find the right answer, I'll kep trying tomorrow
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
