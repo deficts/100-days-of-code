@@ -47,3 +47,12 @@
 
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
+### Day g: November 13, 2019
+
+**Today's Progress**: Solved one hackerrank problem
+
+**Thoughts** No time today to code a lot but I managed to solve one easy hr task
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
