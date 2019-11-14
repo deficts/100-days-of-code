@@ -48,7 +48,7 @@
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
 
-### Day g: November 13, 2019
+### Day 6: November 13, 2019
 
 **Today's Progress**: Solved one hackerrank problem
 
