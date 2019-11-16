@@ -56,3 +56,21 @@
 
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
+### Day 7: November 14, 2019
+
+**Today's Progress**: Solved one hackerrank problem
+
+**Thoughts** Another busy day, had to deliver my networks project but I managed to solve another hr task
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
+### Day 8: November 15, 2019
+
+**Today's Progress**: Implemented numerical methods 
+
+**Thoughts** Had an interview today for a new job which is exciting, in other news I made the lagrange interpolation in python for my numerical methods class
+
+**Link(s) to work**
+1. [Numerical Methods Repository](https://github.com/deficts/numercial-methods)
