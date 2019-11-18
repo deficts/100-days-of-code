@@ -74,3 +74,13 @@
 
 **Link(s) to work**
 1. [Numerical Methods Repository](https://github.com/deficts/numercial-methods)
+
+### Day 9: November 17, 2019
+
+**Today's Progress**: Fibonacci!!
+
+**Thoughts** Implemented recursive fibonacci in python, weird that I did not implment it before...
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
