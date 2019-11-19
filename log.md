@@ -84,3 +84,12 @@
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
 
+### Day 10: November 18, 2019
+
+**Today's Progress**: Hr and algorithms project
+
+**Thoughts** Another hr task and started my algorithms class project
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
