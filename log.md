@@ -93,7 +93,16 @@
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
 
-### Day 11: November 21, 2019
+### Day 10: November 18, 2019
+
+**Today's Progress**: 1 Hr task
+
+**Thoughts** Another hr task, not feeling a lot of coding today
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions
+
+### Day 12: November 21, 2019
 
 **Today's Progress**: Getting to know flask so I can implement it on my numerical methods class project
 
