@@ -93,7 +93,7 @@
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
 
-### Day 10: November 18, 2019
+### Day 12: November 18, 2019
 
 **Today's Progress**: 1 Hr task
 
