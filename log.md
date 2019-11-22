@@ -93,3 +93,13 @@
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
 
+### Day 11: November 19, 2019
+
+**Today's Progress**: Getting to know flask so I can implement it on my numerical methods class project
+
+**Thoughts** Flask is pretty cool I love python and web development so it's the best of both worlds
+
+**Link(s) to work**
+1. [Flask App repository](https://github.com/deficts/flask-app)
+
+
