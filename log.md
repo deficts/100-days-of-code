@@ -111,4 +111,56 @@
 **Link(s) to work**
 1. [Flask App repository](https://github.com/deficts/flask-app)
 
+### Day 13: November 22, 2019
 
+**Today's Progress**: More flask learning
+
+**Thoughts** Finally connected sql and python
+
+**Link(s) to work**
+1. [Flask App repository](https://github.com/deficts/flask-app)
+
+### Day 14: November 24, 2019
+
+**Today's Progress**: More flask learning
+
+**Thoughts** Created register for the app
+
+**Link(s) to work**
+1. [Flask App repository](https://github.com/deficts/flask-app)
+
+### Day 15: November 25, 2019
+
+**Today's Progress**: Finished my algorithms project
+
+**Thoughts** Used the Knuth Morris Pratt algorithm for searching patterns and created a cool looking gui for it 
+
+**Link(s) to work**
+1. [Algorithms repository](https://github.com/deficts/algorithms)
+
+### Day 16: November 26, 2019
+
+**Today's Progress**: Started my numerial methods project
+
+**Thoughts** Used flask for creating a web app that can solve the friction factor of a pipe using the colebrook-white equation
+
+**Link(s) to work**
+1. [Colebrook-White repository](https://github.com/deficts/colebrook-white-app)
+
+### Day 17: November 27, 2019
+
+**Today's Progress**: Finished my numerial methods project
+
+**Thoughts** Finishing touches for the app, it is difficult to connect native modules of python to flask
+
+**Link(s) to work**
+1. [Colebrook-White repository](https://github.com/deficts/colebrook-white-app)
+
+### Day 18: November 29, 2019
+
+**Today's Progress**: Hackerrank again
+
+**Thoughts** Back to normal with some HR
+
+**Link(s) to work**
+1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
