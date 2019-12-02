@@ -164,3 +164,12 @@
 
 **Link(s) to work**
 1. [HackerRank Repository](https://github.com/deficts/hackerrank-solutions)
+
+### Day 19: December 1, 2019
+
+**Today's Progress**: Finishing my last Numerical Methods homework :)
+
+**Thoughts** Used simpson procedure to approxiamete the value of integrals
+
+**Link(s) to work**
+1. [Numerical Methods Repository](https://github.com/deficts/numercial-methods)
